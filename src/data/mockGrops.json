@@ -1,0 +1,16 @@
+[
+  {
+    "id": "favorites",
+    "name": "علاقه‌مندی‌ها",
+    "isDefault": true,
+    "trackIds": [],
+    "createdAt": 1732000000000
+  },
+  {
+    "id": "bookmarks",
+    "name": "سیوها",
+    "isDefault": true,
+    "trackIds": [],
+    "createdAt": 1732000000000
+  }
+]

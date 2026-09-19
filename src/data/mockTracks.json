@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "آهنگ اول",
+    "artist": "خواننده الف",
+    "coverImage": "https://placehold.co/100x100",
+    "audioBlobId": null,
+    "duration": 180,
+    "groupIds": [],
+    "isFavorite": false,
+    "isBookmarked": false,
+    "createdAt": 1732000000000
+  },
+  {
+    "id": "2",
+    "title": "آهنگ دوم",
+    "artist": "خواننده ب",
+    "coverImage": "https://placehold.co/100x100",
+    "audioBlobId": null,
+    "duration": 210,
+    "groupIds": [],
+    "isFavorite": false,
+    "isBookmarked": false,
+    "createdAt": 1732000001000
+  },
+  {
+    "id": "3",
+    "title": "آهنگ سوم",
+    "artist": "خواننده ج",
+    "coverImage": "https://placehold.co/100x100",
+    "audioBlobId": null,
+    "duration": 195,
+    "groupIds": [],
+    "isFavorite": false,
+    "isBookmarked": false,
+    "createdAt": 1732000002000
+  },
+  {
+    "id": "4",
+    "title": "آهنگ چهارم",
+    "artist": "خواننده د",
+    "coverImage": "https://placehold.co/100x100",
+    "audioBlobId": null,
+    "duration": 240,
+    "groupIds": [],
+    "isFavorite": false,
+    "isBookmarked": false,
+    "createdAt": 1732000003000
+  }
+]
